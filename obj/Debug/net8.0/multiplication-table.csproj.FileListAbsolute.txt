@@ -1,0 +1,14 @@
+G:\Coding\C#\multiplication-table\bin\Debug\net8.0\multiplication-table.exe
+G:\Coding\C#\multiplication-table\bin\Debug\net8.0\multiplication-table.deps.json
+G:\Coding\C#\multiplication-table\bin\Debug\net8.0\multiplication-table.runtimeconfig.json
+G:\Coding\C#\multiplication-table\bin\Debug\net8.0\multiplication-table.dll
+G:\Coding\C#\multiplication-table\bin\Debug\net8.0\multiplication-table.pdb
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\multiplication-table.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\multiplication-table.AssemblyInfoInputs.cache
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\multiplication-table.AssemblyInfo.cs
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\multiplication-table.csproj.CoreCompileInputs.cache
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\multiplication-table.dll
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\refint\multiplication-table.dll
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\multiplication-table.pdb
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\multiplication-table.genruntimeconfig.cache
+G:\Coding\C#\multiplication-table\obj\Debug\net8.0\ref\multiplication-table.dll
